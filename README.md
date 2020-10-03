@@ -11,7 +11,7 @@
 ### テーマを選んだ理由
 とあるラーメン屋に訪れた時、人気店ということは知っていたが、どのメニューが美味しいのかは分からなかった。  
 1回目に訪れた時に食べたメニューでは、感動しなかったが、2回目に別のメニューを頼んでみたところ、感動した。   
-「メニューごとの人気」が分かるサービスを作成した。
+「メニューごとの人気」が分かるサービスが欲しいと思ったから。
 
 ### ターゲットユーザ
 1.優柔不断な人  
@@ -39,7 +39,7 @@ https://docs.google.com/spreadsheets/d/10pVjLpwzXf_CYbOYnmY3KiBRRaQ29r_XGBwHcIVs
 - 仮想環境：Vagrant,VirtualBox
 
 ## 使用素材
-・PAKUTASO
-・desingevo
-・ICOOON MONO
-・お名前.com
+- PAKUTASO
+- desingevo
+- ICOOON MONO
+- お名前.com
