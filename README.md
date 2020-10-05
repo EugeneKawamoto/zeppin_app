@@ -2,8 +2,8 @@
 
 ## サイト概要
 ・レストランの人気メニューが分かる。  
-・ユーザの投稿メニューに対してイイね、コメントができる。  
-・レストランの投稿メニューに対してユーザが評価できる。
+・ユーザの投稿メニューに対してイイね、ブックマークができる。 
+・レストランのメニューに対してユーザが投稿し、評価できる。
 
 ### サイトテーマ
 レストランの、どのメニューが美味しいかが分かるサービスです。
@@ -23,9 +23,13 @@
 ・レストランに訪れた際に、どのメニューが人気でどれが美味しいのかをひと目で知ることができる。
 
 ## 設計書
+- ワイヤーフレーム 　　
+https://app.diagrams.net/#G1Tm3LlYDr9wyLY8EqKEfRn8x6EaJrW3WY　　
 
+- アプリケーション詳細設計（同スプレッドシート、にてER図・テーブル定義書を追加済み）
+https://docs.google.com/spreadsheets/d/10pVjLpwzXf_CYbOYnmY3KiBRRaQ29r_XGBwHcIVs9jk/edit#gid=1182221589
 
-### 機能一覧
+### 機能一覧　
 https://docs.google.com/spreadsheets/d/10pVjLpwzXf_CYbOYnmY3KiBRRaQ29r_XGBwHcIVs9jk/edit#gid=0
 
 以下箇条書き予定
@@ -43,3 +47,4 @@ https://docs.google.com/spreadsheets/d/10pVjLpwzXf_CYbOYnmY3KiBRRaQ29r_XGBwHcIVs
 - desingevo
 - ICOOON MONO
 - お名前.com
+- MATERIAL DESIGN
