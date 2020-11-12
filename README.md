@@ -45,6 +45,5 @@ https://docs.google.com/spreadsheets/d/10pVjLpwzXf_CYbOYnmY3KiBRRaQ29r_XGBwHcIVs
 ## 使用素材
 - PAKUTASO
 - desingevo
-- ICOOON MONO
 - お名前.com
 - MATERIAL DESIGN
