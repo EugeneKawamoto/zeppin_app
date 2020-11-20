@@ -46,4 +46,3 @@ https://docs.google.com/spreadsheets/d/10pVjLpwzXf_CYbOYnmY3KiBRRaQ29r_XGBwHcIVs
 - PAKUTASO
 - desingevo
 - お名前.com
-- MATERIAL DESIGN
